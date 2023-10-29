@@ -1,6 +1,6 @@
 # Predicting the rank of an elliptic curve
 
-Jupyter notebooks to explore and reproduce some of the results from [1]. See blog post [Predicting the rank of an elliptic curve](https://billoxbury.github.io/artificial_intelligence/zombie-bots-and-neural-bots/).
+Jupyter notebooks to explore and reproduce some of the results from [1]. See blog post [Predicting the rank of an elliptic curve](https://billoxbury.github.io/mathematics/predicting-elliptic-curve-rank/).
 
 The notebooks are:
 
@@ -9,7 +9,7 @@ The notebooks are:
 3. Prime series. Discussion of the a_i behaviours.
 4. t-SNE and PCA. Introduce the b_i variables.
 5. Models. Use TensorFlow to fit and compare models.
-6. Conductors. Explore (inconclusively) prime facotrisation of the conductor as additional features.
+6. Conductors. Explore (inconclusively) prime factorisation of the conductor as additional features.
 
 **References**
 
